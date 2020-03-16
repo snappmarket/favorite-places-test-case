@@ -1,5 +1,5 @@
-# places-test-case
-This is the places test case user story and PSD files
+# favorite-places-test-case
+This is the favorite places test case user story and PSD files
 
 <h2>Descriptions</h2>
 <p>
